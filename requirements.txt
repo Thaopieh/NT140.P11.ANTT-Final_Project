@@ -1,0 +1,13 @@
+dataclasses; python_version < '3.7'
+requests
+loguru
+tiktoken
+tenacity
+langchain
+langchain-community
+langchain_google_genai
+pexpect
+cvss
+colorama
+chroma
+langchain_community
